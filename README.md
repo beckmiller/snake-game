@@ -1,7 +1,7 @@
-# **Snake** app based on _Tkinter_
+# **Snake** app based on Tkinter
 Hello, there! This is my first **Snake** app, which I built with python **OOP** conception. You will see all descriptions below.
 ### How app looks like: 
-<img src="assets/app.png" width="300" height="300" />
+<img src="assets/app.png" width="400" height="320" />
 
 ## Requirements: 
 
@@ -9,17 +9,17 @@ Hello, there! This is my first **Snake** app, which I built with python **OOP** 
 ![pillow](https://img.shields.io/badge/pillow-8.0.1-brightgreen)
 
 
-## 1. First I installed virtual environment to my project
+### 1. First I installed virtual environment to my project
 
    ``` 
    python -m venv env 
    ```
    > Before start working I activated working env
-## 2. Installed pillow library for working with images
+### 2. Installed pillow library for working with images
    ```
    pip install pillow
    ``` 
-## 3. Then I created `class Snake`, which I inherited from `Canvas` and made resizable main window
+### 3. Then I created `class Snake`, which I inherited from `Canvas` and made resizable main window
    ```python
    class Snake(tk.Canvas):
        pass
@@ -30,7 +30,7 @@ Hello, there! This is my first **Snake** app, which I built with python **OOP** 
     #making resizable window
     root.resizable(False, False)
    ```
-## 4. There are created 10 functions in the class include `__init__` method:
+### 4. There are created 10 functions in the class include `__init__` method:
   
    Function name | Description
    --- |:---:
@@ -39,8 +39,8 @@ Hello, there! This is my first **Snake** app, which I built with python **OOP** 
    *end_game* | Deleting all  objects from window and showing Game over and Score
    *...* | ....
 
-## 5. Added `requirments.txt` and to `.gitignore` added `env` folder.
-## 6. Then project was pushed to Github
+### 5. Added `requirments.txt` and to `.gitignore` added `env` folder.
+### 6. Then project was pushed to Github
 
 
    ```
