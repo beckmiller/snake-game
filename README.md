@@ -1,6 +1,5 @@
-# **Snake** app based on *Tkinter* 
-Hello, there! This is my first **Snake** app, 
-which I built with python **OOP** conception. You will see all descriptions below.
+### **Snake** app based on *Tkinter* 
+#### Hello, there! This is my first **Snake** app, which I built with python **OOP** conception. You will see all descriptions below.
 
 <svg xmlns="http://www.w3.org/2000/svg" 
 xmlns:xlink="http://www.w3.org/1999/xlink" 
