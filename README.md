@@ -1,5 +1,6 @@
 # **Snake** app based on Tkinter
 Hello, there! This is my first **Snake** app, which I built with python **OOP** conception. You will see all descriptions below.
+One of the futures of app that your snake speed growing after every 5 points.
 ### How app looks like: 
 <img src="assets/app.png" width="400" height="320" />
 
