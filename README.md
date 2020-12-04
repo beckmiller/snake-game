@@ -31,7 +31,7 @@ One of the futures of app that your snake speed growing after every 5 points.
     #making resizable window
     root.resizable(False, False)
    ```
-### 4. There are created 10 functions in the class include `__init__` method:
+### 4. There are created 10 methods in the class include `__init__` method:
   
    Function name | Description
    --- |:---:
